@@ -66,7 +66,7 @@ try{
               <Image src="./assets/gdsc-logo.png" alt="me" width="64" height="64" />
             </div>
             <div className="text flex flex-col justify-start items-start">
-              <p className="text-base">Google Devloper Student Club</p>
+              <p className="text-base">Google Developer Student Club</p>
               <p className="text-xs"> Jamia Millia Islamia</p>
 
             </div>
